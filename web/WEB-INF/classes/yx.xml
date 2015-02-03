@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<pojo name="Permission">
+    	 <sql>id_f,name_f,desc_f//10,'网上报名','网上报名菜单权限'</sql>	
+         <sql>id_f,name_f,desc_f//11,'入学成绩','成绩管理菜单权限'</sql>	
+         <sql>id_f,name_f,desc_f//12,'入学办理','入学报到菜单权限'</sql>
+         <sql>id_f,name_f,desc_f//13,'缴费登记','缴费登记菜单权限'</sql>
+         <sql>id_f,name_f,desc_f//15,'分班管理','分班管理菜单权限'</sql>
+         <sql>id_f,name_f,desc_f//16,'寝室分配','寝室分配菜单权限'</sql>
+         <sql>id_f,name_f,desc_f//17,'教师确认','教师确认菜单权限'</sql>
+         <sql>id_f,name_f,desc_f//18,'学生处汇总','学生处汇总菜单权限'</sql>
+         <sql>id_f,name_f,desc_f//19,'教务处审核','教务处审核菜单权限'</sql>
+    </pojo>
+    <pojo name="Menu">
+        <sql>id_f,name_f,permission_f,icon_f,url_f//12,'网上报名',10,'icon-onlineregister-large','/onlineregist/page/ht'</sql>
+        <sql>id_f,name_f,permission_f,icon_f,url_f//13,'入学成绩',11,'icon-sortmanage-large','/scoremange/scorepage'</sql>
+        <sql>id_f,name_f,permission_f,icon_f,url_f//14,'入学办理',12,'icon-admission-large','/entrancehandel/page/entranceHandleto'</sql>
+        <sql>id_f,name_f,permission_f,icon_f,url_f//15,'缴费登记',13,'icon-jfdj-large','/payment/ppage'</sql>
+        <sql>id_f,name_f,permission_f,icon_f,url_f//17,'分班管理',15,'icon-fbgl-large','/placement/page/index'</sql>
+        <sql>id_f,name_f,permission_f,icon_f,url_f//18,'寝室分配',16,'icon-qsfp-large','/bedroomallot/main'</sql>
+        <sql>id_f,name_f,permission_f,icon_f,url_f//19,'教师确认',17,'icon-jsqr-large','/onlineregist/page/ht'</sql>
+        <sql>id_f,name_f,permission_f,icon_f,url_f//20,'学生处汇总',18,'icon-xschz-large','/onlineregist/page/ht'</sql>
+        <sql>id_f,name_f,permission_f,icon_f,url_f//21,'教务处审核',19,'icon-jwcsh-large','/onlineregist/page/ht'</sql>
+    </pojo>
+</data>

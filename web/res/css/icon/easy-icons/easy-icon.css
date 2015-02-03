@@ -1,0 +1,122 @@
+/**网上报名*/
+.icon-onlineregister-large {
+	background: url('large/onlineregister.png') no-repeat center center;
+}
+/**成绩管理*/
+.icon-sortmanage-large {
+	background: url('large/sortmanage.png') no-repeat center center;
+}
+/**入学报到*/
+.icon-admission-large {
+	background: url('large/admission.png') no-repeat center center;
+}
+/**缴费登记*/
+.icon-jfdj-large {
+	background: url('large/jfdj.png') no-repeat center center;
+}
+/**分班管理*/
+.icon-fbgl-large {
+	background: url('large/fbgl.png') no-repeat center center;
+}
+/**寝室分配*/
+.icon-qsfp-large {
+	background: url('large/qsfp.png') no-repeat center center;
+}
+/**教师确认*/
+.icon-jsqr-large {
+	background: url('large/jsqr.png') no-repeat center center;
+}
+/**学生处汇总*/
+.icon-xschz-large {
+	background: url('large/xschz.png') no-repeat center center;
+}
+/**教务处审核*/
+.icon-jwcsh-large {
+	background: url('large/jwcsh.png') no-repeat center center;
+}
+
+.icon-process-large {
+	background: url('large/process.png') no-repeat center center;
+}
+
+.icon-work-large {
+	background: url('large/work.png') no-repeat center center;
+}
+
+.icon-set-large {
+	background: url('large/set.png') no-repeat center center;
+}
+
+.icon-system-large {
+	background: url('large/system.png') no-repeat center center;
+}
+
+.icon-house-large {
+	background: url('large/house.png') no-repeat center center;
+}
+
+.icon-drawing-large {
+	background: url('large/drawing.png') no-repeat center center;
+}
+
+/********************************************16x16*******************************/
+
+/**分班处理*/
+.icon-fbcl-small {
+	background: url('small/fbcl.png') no-repeat center center;
+}
+
+/**分班查询*/
+.icon-fbcx-small {
+	background: url('small/fbcx.png') no-repeat center center;
+}
+
+/**寝室楼*/
+.icon-lou-small {
+	background: url('small/lou.png') no-repeat center center;
+}
+/**楼层*/
+.icon-louceng-small {
+	background: url('small/louceng.png') no-repeat center center;
+}
+/**房间*/
+.icon-room-small {
+	background: url('small/room.png') no-repeat center center;
+}
+/**学校*/
+.icon-school-small {
+	background: url('small/school.png') no-repeat center center;
+}
+
+.icon-upload-small {
+	background: url('small/upload.png') no-repeat center center;
+}
+
+.icon-attach-small {
+	background: url('small/attach.png') no-repeat center center;
+}
+
+.icon-role-small {
+	background: url('small/role.png') no-repeat center center;
+}
+
+.icon-orgs-small {
+	background: url('small/orgs.png') no-repeat center center;
+}
+
+.icon-user-small {
+	background: url('small/user.png') no-repeat center center;
+}
+/*
+*房子链接
+*/
+.icon-house_link {
+	background: url('small/house_link.png') no-repeat center center;
+}
+
+/*
+*画板图标
+*/
+.icon-drawing {
+	background: url('small/drawing.png') no-repeat center center;
+}
